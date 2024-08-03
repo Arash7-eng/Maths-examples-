@@ -1,4 +1,12 @@
+
+# Theme configuration 
 theme: jekyll-theme-cayman
+
+# markdown configuration
 markdown: kramdown
-kramdown:
+kramdown: 
   math_engine: mathjax
+
+# Plugin configuration
+plugins:
+  - jekyll-mermaid
