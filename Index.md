@@ -1,1 +1,5 @@
-Random formulas
+
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
